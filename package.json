@@ -1,0 +1,6 @@
+{
+  "name": "are-you-sure",
+  "dependencies": {
+    "@types/chrome": "^0.0.268"
+  }
+}
